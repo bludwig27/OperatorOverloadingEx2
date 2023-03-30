@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.AssemblyInfo.cs
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\bin\Debug\net6.0\OperatorOverloadingEx2.exe
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\bin\Debug\net6.0\OperatorOverloadingEx2.deps.json
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\bin\Debug\net6.0\OperatorOverloadingEx2.runtimeconfig.json
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\bin\Debug\net6.0\OperatorOverloadingEx2.dll
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\bin\Debug\net6.0\OperatorOverloadingEx2.pdb
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.dll
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\refint\OperatorOverloadingEx2.dll
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.pdb
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\OperatorOverloadingEx2.genruntimeconfig.cache
+C:\Users\bludw\source\repos\OperatorOverloadingEx2\OperatorOverloadingEx2\obj\Debug\net6.0\ref\OperatorOverloadingEx2.dll
